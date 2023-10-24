@@ -9,7 +9,6 @@
 
 <!-- ![Gutoneitzke GitHub stats](https://github-readme-stats.vercel.app/api?username=gutoneitzke&show_icons=true&theme=tokyonight&count_private=true)-->
 
-## Tecnologias que mais utilizo
 ## Tecnologias que mais utilizo!!!
 <br>
 <div style="display: inline_block">
