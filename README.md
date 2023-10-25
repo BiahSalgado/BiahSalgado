@@ -20,6 +20,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br/>
-🔴 Aprendendo programação e se divertindo, dia após dia!
+
 <br><br>
 <b>🚀 Apaixonada por código e inovação. Transformando linhas em soluções! 💻</b>
