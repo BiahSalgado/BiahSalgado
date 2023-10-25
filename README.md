@@ -22,4 +22,4 @@
 <br/>
 🔴 Aprendendo programação e se divertindo, dia após dia!
 <br><br>
-<b>Venha aprender um pouco mais sobre esse mundo fantástico da tecnologia junto comigo</b> 🚀
+<b>🚀 Apaixonada por código e inovação. Transformando linhas em soluções! 💻</b>
